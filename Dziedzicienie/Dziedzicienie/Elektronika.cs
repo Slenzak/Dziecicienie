@@ -8,9 +8,9 @@ namespace Dziedzicienie
 {
     internal class Elektronika:IProdukt
     {
-        string name = "Pc";
-        int cena = 200000;
-        int ilosc = 1;
+        public string name = "Pc";
+        public int cena = 200000;
+        public int ilosc = 1;
         public Elektronika(string name, int cena, int ilosc)
         {
             this.name = name;

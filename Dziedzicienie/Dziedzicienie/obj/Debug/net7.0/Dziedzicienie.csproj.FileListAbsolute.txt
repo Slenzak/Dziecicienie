@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\bin\Debug\net7.0\Dziedzicienie.exe
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\bin\Debug\net7.0\Dziedzicienie.deps.json
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\bin\Debug\net7.0\Dziedzicienie.runtimeconfig.json
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\bin\Debug\net7.0\Dziedzicienie.dll
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\bin\Debug\net7.0\Dziedzicienie.pdb
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.AssemblyInfo.cs
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.dll
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\refint\Dziedzicienie.dll
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.pdb
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\Dziedzicienie.genruntimeconfig.cache
+C:\Users\student\source\repos\Dziedzicienie\Dziedzicienie\obj\Debug\net7.0\ref\Dziedzicienie.dll
